@@ -16,7 +16,7 @@
     right: -6px
 }
 
-.fa-cog::after {
+.screen-header::after {
     content: "";
     display: inline-block;
     width: 6px;
@@ -25,6 +25,7 @@
     background-color: tomato;
     position: absolute;
     top:30px;
+    right: 20px;
 
 
 }
