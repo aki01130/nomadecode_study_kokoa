@@ -16,7 +16,18 @@
     right: -6px
 }
 
+.fa-cog::after {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: absolute;
+    top:30px;
 
+
+}
 
 .recommended-friends {
     margin: 15px 0;
